@@ -4,7 +4,7 @@ A plugin to access the scalatest testing framework from Leiningen.
 
 ## Usage
 
-Put `[com.duramec/lein-scalatest "0.0.3"]` into `:plugins`.  Requires Leiningen version 2.0.0 or greater.
+Put `[haruyama/lein-scalatest "0.0.4"]` into `:plugins`.  Requires Leiningen version 2.0.0 or greater.
 
 To run, simply execute:
 

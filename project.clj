@@ -1,4 +1,4 @@
-(defproject com.duramec/lein-scalatest "0.0.4"
+(defproject haruyama/lein-scalatest "0.0.4"
   :description "Leiningen plugin for scalatest."
   :url "http://www.scalatest.org"
   :license {:name "Eclipse Public License"
